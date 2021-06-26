@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://komarev.com/ghpvc/?username=Naveen-nk1&style=flat-square" />
 
-[![Top Langs](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs] (https://github.com/anuraghazra/github-readme-stats)

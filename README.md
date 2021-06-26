@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://komarev.com/ghpvc/?username=Naveen-nk1&style=flat-square" />
 
-
+<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
 
 
 

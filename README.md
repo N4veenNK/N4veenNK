@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github.com/anuraghazra/github-readme-stats)]
 
-<br>
+
+
 
 
 

@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello There &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="24px"><br>
-<h2 align="center">Hello  There 👋, I'm Naveen</h2>
+<h2 align="center">Hello 👋, I'm Naveen</h2>

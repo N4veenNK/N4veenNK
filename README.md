@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 -->
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello There &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="24px"><br>
 <h2 align="center">Hello 👋, I'm Naveen</h2>
+
+![Naveen_DPv2](https://user-images.githubusercontent.com/71399635/123496233-a1774300-d644-11eb-801c-4a4b73621ba3.jpg)

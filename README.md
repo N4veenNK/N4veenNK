@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hello 👋, I'm Naveen</h2>
 
 ![Naveen_DPv2](https://user-images.githubusercontent.com/71399635/123496233-a1774300-d644-11eb-801c-4a4b73621ba3.jpg)
+
+<img align="center" src="https://komarev.com/ghpvc/?username=Naveen-nk1&style=flat-square" />
+
+https://github.com/anuraghazra/github-readme-stats

@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=Naveen-nk1&style=flat-square" />
 
 
-<br>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=Naveen-nk1&style=flat-square" />
-
-<br>
 
 
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Naveen_DPv2](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=Naveen-nk1&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Naveen-nk1)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Naveen-nk1)
 
 
 

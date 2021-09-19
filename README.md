@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout-compact)](https://github.com/N4veenNK/device_asus_X00TD)
 
-[![Naveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=N4veenNK)](https://github.com/N4veenNK/device_asus_X00TD)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=N4veenNK)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://komarev.com/ghpvc/?username=N4veenNK&style=plastic&color=blueviolet&label=PROFILE+VIEWS" />
 

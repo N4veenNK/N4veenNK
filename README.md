@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=jolly&show_icons=true)](https://github.com/N4veenNK)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=github-readme-stats)](https://github.com/N4veenNK/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD-1)](https://github.com/N4veenNK/device_asus_X00TD-1)
 
 <img align="center" src="https://komarev.com/ghpvc/?username=N4veenNK&style=flat-square" />
 

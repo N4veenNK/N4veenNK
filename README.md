@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Naveen_DPv2](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=jolly&show_icons=true&include_all_commits)](https://github.com/N4veenNK)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=jolly&show_icons=true&include_all_commits&border_color=#ffffff)](https://github.com/N4veenNK)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout-compact)](https://github.com/N4veenNK/device_asus_X00TD)
 

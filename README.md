@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout-compact)](https://github.com/N4veenNK/device_asus_X00TD)
 
+<h3 align="center"
+    Profil Views <br>
 <img align="center" src="https://komarev.com/ghpvc/?username=N4veenNK&style=plastic&color=blueviolet&label=LoL ^_^" />
 
 <h3 align="center"> 

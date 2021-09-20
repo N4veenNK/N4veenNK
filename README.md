@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://komarev.com/ghpvc/?username=N4veenNK&style=plastic&color=blueviolet&label=LoL ^_^" />
 
-<br
 <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />

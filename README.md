@@ -24,14 +24,12 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=N4veenNK&style=plastic&color=blueviolet&label=LoL ^_^" />
 
 <h3 align="center"> 
-  Visitor count <br>
+  <br> Visitor count <br>
   <img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />
 </h3>
-<br>
-<h2 align="left"
- Thank you </br>
+
  (https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif)
-</h2>
+
 
 
 

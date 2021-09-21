@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h2
  Thank you
-  (https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif) width="30px"
+  (https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif)
 </h2>
 
 

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />
 </h3>
 
- (https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif)
+[![Thank You] (https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif)
 
 
 

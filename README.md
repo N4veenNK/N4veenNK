@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left"
     <br> Thank You <br>
-<img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/love.gif" width="30px"/>
+<img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/love.gif" width="60px"/>
 
 
 

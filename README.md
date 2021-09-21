@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=jolly&show_icons=true&include_all_commits&border_radius=30px)](https://github.com/N4veenNK)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout-compact)](https://github.com/N4veenNK/device_asus_X00TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout-compact&border_radius=25px)](https://github.com/N4veenNK/device_asus_X00TD)
 
 <h3 align="left"
    <br>🖤 Views <br>

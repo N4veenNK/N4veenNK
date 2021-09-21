@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left"
  Thank you </br>
- ![Naveen_DPv3](https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif)
+ (https://github.com/N4veenNK/N4veenNK/blob/master/assets/love.gif)
 </h2>
 
 

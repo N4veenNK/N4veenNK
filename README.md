@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" <img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="100px"><h2 align ="center" </h2>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px"><br>
+<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="100px"><h2 align ="center" </h2>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px"><br>
 <h2 align="center" <img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="35px"> I'm Naveen</h2>
 
 ![Naveen_DPv2](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)

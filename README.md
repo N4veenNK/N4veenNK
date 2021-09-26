@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </h3>
 
 <h3 align="left"
-    <br> Thank You <br>
+    <br> Thank You 🤗<br>
 <img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/love.gif" width="100px"/>
 
 

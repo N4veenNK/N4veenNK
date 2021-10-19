@@ -20,7 +20,7 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/naveen.png" width="20
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=blueberry&show_icons=true&include_all_commits&border_radius=18px&border_color=#FFFFFF)](https://github.com/N4veenNK)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout_compact&border_radius=25px)](https://github.com/N4veenNK/device_asus_X00TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=outrun&langs_count&layout_compact&border_radius=20px&exclude_repo)](https://github.com/N4veenNK/device_asus_X00TD)
 
 <h3 align="center"> 
   <br> Visitor count <br>

@@ -18,7 +18,7 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/naveen.png" width="20
 
 ![Naveen_DPv2](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=blueberry&show_icons=true&include_all_commits&border_radius=18px&border_color-#FF829BE6)](https://github.com/N4veenNK)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=blueberry&show_icons=true&include_all_commits&border_radius=18px&border_color #FF829BE6)](https://github.com/N4veenNK)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=monokai&langs_count&layout_compact&border_radius=25px)](https://github.com/N4veenNK/device_asus_X00TD)
 

@@ -31,10 +31,4 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/naveen.png" width="20
     <br> Thank You 🤗<br>
 <img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/love.gif" width="150px"/>
 
-
-
-
-
-
-
-
+[![Naveen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thefreaky)](https://github.com/anuraghazra/github-readme-stats)

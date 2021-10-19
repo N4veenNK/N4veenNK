@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/N4veenNK/N4veenNK/raw/output/github-contribution-grid-snake.svg)
 
 <h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="100px">&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px">
-<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="50px">&nbsp;I'm Naveen
+<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="50px">&nbsp;<img
+src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/naveen.png" width="50px">                                                                                                                         
 
 ![Naveen_DPv2](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)
 

@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="100px">&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px">
 <h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="50px">&nbsp;I'm<img
 src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/naveen.png" width="200px"> </h2>                                                                                                                        
+
 ![Naveen_DPv2](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=jolly&show_icons=true&include_all_commits&border_radius=30px)](https://github.com/N4veenNK)

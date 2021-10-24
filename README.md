@@ -24,7 +24,7 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Naveen NK.png" width=
 
 <h3 align="center"> 
   |<br> Visitor count <br>|
-  |<img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />|
+  <img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />
 </h3>
 
 <h3 align="left"

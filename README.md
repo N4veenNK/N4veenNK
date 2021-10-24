@@ -23,7 +23,7 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Naveen NK.png" width=
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N4veenNK&repo=device_asus_X00TD&theme=outrun&langs_count&layout_compact&border_radius=20px&exclude_repo)](https://github.com/N4veenNK/device_asus_X00TD)
 
 <h3 align="center"> 
-  |<br> Visitor count <br>|
+  <br> Visitor count <br>
   <img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />
 </h3>
 

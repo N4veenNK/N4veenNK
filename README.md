@@ -20,10 +20,14 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Naveen NK.png" width=
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=blueberry&show_icons=true&include_all_commits&border_radius=18px&border_color=#FFFFFF)](https://github.com/N4veenNK)
 
-<h3 align="center"> 
-  <br> Visitor count <br>
-  <img src="https://profile-counter.glitch.me/N4veenNK/count.svg" />
-</h3>
+<table
+  <tr
+    <h3 align="center"> 
+    <td>Hello Visitor 🤗</td>
+    <td><img src="https://profile-counter.glitch.me/N4veenNK/count.svg" alt="vistor count" height="30"/></td>
+   </h3>
+  </tr>
+</table>
 
 <h3 align="left"
     <br> Thank You 🤗<br>

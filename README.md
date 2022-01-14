@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Naveen NK.png" width="300px"> </h2>                                                                                                                        
 
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=blueberry&show_icons=true&include_all_commits&border_radius=18px&border_color=#FFFFFF)](https://github.com/N4veenNK)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18px&border_color=#FF7DA2FF)](https://github.com/N4veenNK)
 
 <table
   <tr

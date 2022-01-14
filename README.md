@@ -19,7 +19,7 @@ src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Naveen NK.png" width=
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=FF7DA2FF)](https://github.com/N4veenNK)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4veenNK&layout=compact&card_width=13)](https://github.com/N4veenNK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4veenNK&layout=compact)](https://github.com/N4veenNK/github-readme-stats)
 
 <table
   <tr

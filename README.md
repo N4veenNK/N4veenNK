@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="100px">&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50px">
 
-<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif"> </h2>                                                                                                                        
+<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif" width="500px"> </h2>                                                                                                                        
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=FF7DA2FF&bg_color=829BE6,9582E6,FF5252)](https://github.com/N4veenNK)
 

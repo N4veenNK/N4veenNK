@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif" hight="400px" width="600px"> </h2>                                                                                                                        
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=f80759&bg_color=B06AB3,12FFF7,12FFF7)](https://github.com/N4veenNK)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=f80759&bg_color=1FA2FF,12D8FA,A6FFCB)](https://github.com/N4veenNK)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4veenNK&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/N4veenNK/github-readme-stats)

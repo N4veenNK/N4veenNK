@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/N4veenNK/N4veenNK/raw/output/github-contribution-grid-snake.svg)
 
 
-<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="80px">&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20px">
+<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="80px">&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="10px">
 
 <h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif" hight="400px" width="600px"> </h2>                                                                                                                        
 

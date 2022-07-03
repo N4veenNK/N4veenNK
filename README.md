@@ -11,9 +11,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="80px">
+<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="50px">
 
-<h2 align="center" </h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif" hight="400px" width="600px"> </h2>                                                                                                
+<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="30px">
+
+<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif" hight="400px" width="600px"> </h2>                                                                                                
+
+
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=N4veenNK&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&border_radius=18&border_color=f80759&bg_color=1FA2FF,12D8FA,A6FFCB)](https://github.com/N4veenNK)
 
 
@@ -29,6 +33,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h3 align="left"
-    <br> Thank You <br>
-<img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/love.gif" width="150px"/>
+<h2 align="center"</h2> <img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/love.gif" width="150px"/>

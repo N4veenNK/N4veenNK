@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="50px">
+<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/hello.gif" width="80px">
 
-<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="30px">
+<h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/emoji.gif" width="60px">
 
 <h2 align="center"</h2><img src="https://github.com/N4veenNK/N4veenNK/blob/main/assets/Animated Text.gif" hight="400px" width="600px"> </h2>                                                                                                
 
